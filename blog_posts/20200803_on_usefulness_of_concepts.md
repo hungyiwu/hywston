@@ -1,4 +1,4 @@
-# August 3rd, 2020, on usefulness of concepts
+# On usefulness of concepts
 
 Was reading Anne Carpenter's article [Bridging Domain and Data](https://www.cell.com/action/showPdf?pii=S2666-3899%2820%2930084-2) this morning. Just a few paragraphs into it and I've fallen into thoughts deeply.
 

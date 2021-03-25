@@ -3,6 +3,10 @@
 > People don't want data. They want answers. That's key.  
    \- David Hand, Royal Statistical Society panel discussion [*Data Science and Statistics: different worlds?*](https://youtu.be/C1zMUjHOLr4?t=607) (2015)
 
+> APIs should be easy to use and hard to misuse.  
+> It should be easy to do simple things; possible to do complex things; and impossible, or at least difficult, to do wrong things.  
+   \- Joshua Bloch, QCon New York [*A Brief, Opinionated History of the API*](https://youtu.be/LzMp6uQbmns) (2018)
+
 ### Latest posts
 * [2021/02/16 D3.js web front-end learning project](/blog_posts/20210216_d3js_frontend.md)
 * [2021/02/16 Setting up OpenVPN + Pi-hole on AWS](/blog_posts/20210216_pihole_openvpn.md)
